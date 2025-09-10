@@ -1,5 +1,33 @@
 body {
-	background-color: lightgrey;
+	background-color: #434b4d;
 	margin-left: 100px;
 	margin-top: 50px;
+}
+h1 {font-family: "Bungee", sans-serif;
+	font-weight: 400;
+ 	ont-style: normal;
+	color: white;}
+h2 {font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	color: white;}
+h3{font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	color: white;}
+li {font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	color: white;}
+ a {font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	text-decoration: none;
+	color: #cae9f5;}
+a:hover {
+	color: #add8e6;
 }
